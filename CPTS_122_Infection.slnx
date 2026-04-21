@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CPTS_122_Infection.vcxproj" Id="a704d2cc-9b79-4fb2-9494-f1d034f7fbd2" />
+</Solution>
